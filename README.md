@@ -13,9 +13,9 @@ A **simple and responsive Weather App** built with **HTML, CSS, and JavaScript**
 ---
 
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 - **OpenWeatherMap API**
 
 ---
