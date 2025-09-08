@@ -5,7 +5,7 @@ A **simple and responsive Weather App** built with **HTML, CSS, and JavaScript**
 ---
 
 ## 🚀 Features
-✅ Search weather by city  
+✅ Search weather by city.  
 ✅ Real-time weather data using API  
 ✅ Displays temperature, humidity, and weather condition  
 ✅ Responsive design for all devices  
